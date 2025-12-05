@@ -1,2 +1,0 @@
-# Whiteboard
-print("Hello World")

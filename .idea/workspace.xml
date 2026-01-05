@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8b42e4-3c21-41b8-9512-a59beb938c6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/POO Unidad I/Tipos de datos, Identificadores/Cálculo del área de un rectángulo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" afterDir="false" />
@@ -23,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/POO Unidad I" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -84,7 +83,7 @@
       <workItem from="1765896802316" duration="1581000" />
       <workItem from="1765898417262" duration="1643000" />
       <workItem from="1765927626703" duration="2093000" />
-      <workItem from="1767638230087" duration="1014000" />
+      <workItem from="1767638230087" duration="2031000" />
     </task>
     <servers />
   </component>

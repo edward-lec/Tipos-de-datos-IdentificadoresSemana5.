@@ -1,10 +1,10 @@
 
 # Programa: Cálculo del área de un rectángulo
+# Creado por el alumno: Leiber Correa
 # Descripción:
 # Este programa solicita al usuario el largo y el ancho de un rectángulo,
 # calcula su área y verifica si el resultado es válido.
 # Aplicable al cálculo de áreas en arquitectura.
-# Creado por el alumno: Leiber Correa
 
 # Se solicita al usuario el largo del rectángulo y se convierte a tipo float
 largo = float(input("Ingrese el largo del rectángulo: "))

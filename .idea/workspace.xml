@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e8b42e4-3c21-41b8-9512-a59beb938c6a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/POO Unidad I/Tipos de datos, Identificadores/Cálculo del área de un rectángulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/hotel.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO/main.py" afterDir="false" />
     </list>
@@ -34,29 +36,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.Comparación de Programación Tradicional y POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Orientada a Objetos POO TareaS3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación Orientada a Objetos POO.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Programación tradicional TareaS3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Técnicas Programación.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clima_base.executor&quot;: &quot;Run&quot;,
-    &quot;Python.clima_semanal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.habitacion.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Comparación de Programación Tradicional y POO.executor": "Run",
+    "Python.Cálculo del área de un rectángulo.executor": "Run",
+    "Python.Programación Orientada a Objetos POO TareaS3.executor": "Run",
+    "Python.Programación Orientada a Objetos POO.executor": "Run",
+    "Python.Programación tradicional TareaS3.executor": "Run",
+    "Python.Técnicas Programación.executor": "Run",
+    "Python.clima_base.executor": "Run",
+    "Python.clima_semanal.executor": "Run",
+    "Python.habitacion.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,7 +83,8 @@
       <workItem from="1765650856916" duration="9000" />
       <workItem from="1765896802316" duration="1581000" />
       <workItem from="1765898417262" duration="1643000" />
-      <workItem from="1765927626703" duration="1476000" />
+      <workItem from="1765927626703" duration="2093000" />
+      <workItem from="1767638230087" duration="1014000" />
     </task>
     <servers />
   </component>
@@ -90,6 +94,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Programación_Orientada_a_Objetos_POO.coverage" NAME="Programación Orientada a Objetos POO Coverage Results" MODIFIED="1765391374122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Comparación_de_Programación_Tradicional_y_POO.coverage" NAME="Comparación de Programación Tradicional y POO Coverage Results" MODIFIED="1765388312014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I" />
+    <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Cálculo_del_área_de_un_rectángulo.coverage" NAME="Cálculo del área de un rectángulo Coverage Results" MODIFIED="1767639004147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/Tipos de datos, Identificadores" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$Programación_Orientada_a_Objetos_POO_TareaS3.coverage" NAME="Programación Orientada a Objetos POO TareaS3 Coverage Results" MODIFIED="1765411388458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/Programación Orientada a Objetos" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$habitacion.coverage" NAME="habitacion Coverage Results" MODIFIED="1765898476806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO" />
     <SUITE FILE_PATH="coverage/Programación_Orientada_a_Objetos$main.coverage" NAME="main Coverage Results" MODIFIED="1765898496943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/POO Unidad I/EjemplosMundoReal_POO" />
